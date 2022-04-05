@@ -74,6 +74,10 @@ header{
     gap: 5%;
 }
 
+.two{
+    background-color: blue;
+}
+
 .switch {
     position: relative;
     display: inline-block;
